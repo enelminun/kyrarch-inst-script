@@ -1,0 +1,7 @@
+greeting=Hello! Welcome to the Arch Linux minimal installation script.
+desktop_question=Which desktop environment would you like to use?
+aur_question=Should we install an AUR helper?
+minimal_question=Should the installation be minimal? (default: yes)
+ollama_question=Should Ollama, OpenWebUI, and Docker be installed?
+mpv_question=Should we install media players? (default: no)
+ani_tools_question=Should Ani-tools (ani-cli) be installed? (default: no)
