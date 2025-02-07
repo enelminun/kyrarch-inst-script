@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Kullanıcı dil seçimi
-echo "Lütfen dil seçin (tr/en): "
+echo "Lütfen dil seçin (en/aze/tr): "
 read language
 
 # Dil dosyasını seçme
