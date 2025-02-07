@@ -5,6 +5,8 @@ echo "Lütfen dil seçin (tr/en): "
 read language
 
 # Dil dosyasını seçme
+if [ "$language" == "aze" ]; then
+    lang_file="Lang_AZB.klf"
 if [ "$language" == "tr" ]; then
     lang_file="Lang_TR.klf"
 elif [ "$language" == "en" ]; then
