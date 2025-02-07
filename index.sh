@@ -48,7 +48,7 @@ esac
 echo "$aur_question"
 echo "1) Pikaur"
 echo "2) Yay"
-echo "3) Hayır"
+echo "3) no"
 read aur_choice
 
 case $aur_choice in
