@@ -1,0 +1,7 @@
+greeting=Salam! KayrArch Linux qurulum skriptinə xoş gəlmisiniz.
+desktop_question=Hansə masaüstü mühitini istifadə etmək istəyirsiniz?
+aur_question=AUR köməkçisi quraşdırılsın mı?
+minimal_question=Qurulum minimal olsun? (varsayılan: bəli)
+ollama_question=Ollama, OpenWebUI və Docker quraşdırılsın mı?
+mpv_question=Multimedia pleyerləri quraşdırılsın mı? (varsayılan: xeyr)
+ani_tools_question>Ani-tools (ani-cli) quraşdırılsın mı? (varsayılan: xeyr)
