@@ -1,0 +1,7 @@
+greeting=Merhaba! Arch Linux minimal kurulum scriptine hoş geldiniz.
+desktop_question=Hangi masaüstü ortamını kullanmak istersiniz?
+aur_question=AUR yöneticisi kurulmalı mı?
+minimal_question=Kurulum minimal mi olsun? (varsayılan: evet)
+ollama_question=Ollama, OpenWebUI ve Docker kurulmalı mı?
+mpv_question=Ortam oynatıcıları kurulmalı mı? (varsayılan: hayır)
+ani_tools_question>Ani-tools (ani-cli) kurulmalı mı? (varsayılan: hayır)
