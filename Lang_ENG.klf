@@ -1,4 +1,4 @@
-greeting=Hello! Welcome to the Arch Linux minimal installation script.
+greeting=Hello! Welcome to the KayrArch Linux installation script.
 desktop_question=Which desktop environment would you like to use?
 aur_question=Should we install an AUR helper?
 minimal_question=Should the installation be minimal? (default: yes)
