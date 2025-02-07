@@ -1,4 +1,4 @@
-greeting=Merhaba! KayrArch Linux minimal kurulum scriptine hoş geldiniz.
+greeting=Merhaba! KayrArch Linux kurulum scriptine hoş geldiniz.
 desktop_question=Hangi masaüstü ortamını kullanmak istersiniz?
 aur_question=AUR yöneticisi kurulmalı mı?
 minimal_question=Kurulum minimal mi olsun? (varsayılan: evet)
